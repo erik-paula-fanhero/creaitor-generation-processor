@@ -1,0 +1,6 @@
+aiobotocore
+boto3
+fastapi
+gunicorn
+python-dotenv
+uvicorn
